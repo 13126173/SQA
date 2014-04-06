@@ -1,7 +1,7 @@
-Formal methods
+#Formal methods
 Formal methods = formal specification + formal verification
 
-Formal specification (FS)
+#Formal specification (FS)
 
 As part of defect prevention
 Formal => prevent/reduce defect injection due to imprecision, ambiguity, etc

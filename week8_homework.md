@@ -2,9 +2,10 @@
 
 
     Software quality runs through the software life cycle is a very important problem, is ultimately used in the process of software development technology and verification method. Therefore, in the software life cycle should pay special attention to quality assurance, to produce high quality software product.
-Software quality assurance goals is to develop acceptable software products. Here the so-called "acceptable" should be the user to understand the sense of acceptance, or should meet the quality requirements set by a user. So the software quality assurance tasks naturally is to ensure software quality.
+    
+	Software quality assurance goals is to develop acceptable software products. Here the so-called "acceptable" should be the user to understand the sense of acceptance, or should meet the quality requirements set by a user. So the software quality assurance tasks naturally is to ensure software quality.
 
-Software quality assurance is to improve prevention, and improvement of inspection to ensure software quality, software life cycle management and to verify that the software is to meet the specified quality and user's demand.
+	Software quality assurance is to improve prevention, and improvement of inspection to ensure software quality, software life cycle management and to verify that the software is to meet the specified quality and user's demand.
 
 Software quality assurance is composed of various tasks, these tasks participants are two kinds of people: software developers and software quality assurance personnel. The former is responsible for the technical work, which is responsible for the quality assurance plan, monitoring, recording, analysis and report. Software developers by adopting the method and technical reviews, formal, execution plan software testing careful to ensure the quality of software products. Software quality assurance, the final product is software development group of the quality. So the software developers and software quality assurance personnel is an important part of software quality assurance.
 
